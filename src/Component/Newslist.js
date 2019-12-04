@@ -3,6 +3,10 @@ import News_thumb from './News_thumb'
 import News from '../pages/News';
 
 export default class Newslist extends Component {
+
+
+
+    
     render() {
         console.log("test");
         const {news} = this.props
